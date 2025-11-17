@@ -1,3 +1,5 @@
+#thi is the changes iv made.
+
 print("Enter the vectors:")
 
 a=int(input("Enter i component of 1st vector: "))
